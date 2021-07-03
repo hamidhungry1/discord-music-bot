@@ -1,9 +1,6 @@
 # hungry-music-bot
-Hello friends These codes are for discord bot writing and it is easy to write a complete music bot using these commands. 
-If you want to know how to work with source code, refer to my YouTube
-YouTube Persian: https://www.youtube.com/channel/UCnUUk4DiXqsntonKgPssl8w 
-YouTube English: https://www.youtube.com/channel/UCdwgb5Ryy32gTfPym_A6CmA 
+سلام این بات برای من نیست فقط یکسری تغییرات انجام شده داخلش
+YouTube : https://www.youtube.com/channel/hamidhungry
 Instagram: 
-hamid hungry
-hamid hungryen
-My Channel in Discord: https://discord.gg/6zxSj6r
+hamidhungry
+My Channel in Discord: https://discord.gg/hungrystudio
